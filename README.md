@@ -23,9 +23,11 @@ Specifications of proposed converter:
 L1 = 0.5mH; switching frequency = 33 kHz; C1-2 = 50uF, C3-5 = 100uF; Power = 400 W; output voltage = 400V
 
 **Applications of proposed converter:**
+
 The proposed converter is an excellent choice for many critical load applications such as Electric Vehicles, Medical devices, Data centres, Aerospace, Military applications and Renewable energy integration etc.
 
 **Files  uploaded:**
+
 **1).psim file-9718.psimch;** 
 psim file to simulate the proposed converter topology.
 
