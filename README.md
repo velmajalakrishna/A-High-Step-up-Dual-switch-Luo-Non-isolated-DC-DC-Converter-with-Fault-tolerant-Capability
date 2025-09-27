@@ -29,10 +29,13 @@ The proposed converter is an excellent choice for many critical load application
 **Files  uploaded:**
 
 **1).psim file-9718.psimch;** 
+
 psim file to simulate the proposed converter topology.
 
-**2).state space averaging technique.pdf;**
-pdf file to derive state spsce analysis of proposed converter. 
+**2).State Space Averaging Technique.pdf;**
 
-**3).matlab code.pdf;**
+pdf file to derive state space analysis of proposed converter. 
+
+**3).Matlab code.pdf;**
+
 pdf file containing matlab code to derive transfer function and obtaining bode plot diagram of proposed converter.
