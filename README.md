@@ -2,7 +2,7 @@
 
 **Paper id: 9718**
 
-**Authors: KrishnaVelmajala and Srinivasa Rao Sandepudi**
+**Authors: Krishna Velmajala and Srinivasa Rao Sandepudi**
 
 
 
